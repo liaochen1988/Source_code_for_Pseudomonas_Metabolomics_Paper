@@ -104,6 +104,7 @@ def fit_model_parameters(curve, phase, model):
 
 def extract_growth_curve_features(file_od,
                                   file_phase,
+                                  min_r2=0.90,
                                   is_plot=True,
                                   plot_dim=(8,12),
                                   plot_logscale=False,
@@ -187,7 +188,7 @@ def extract_growth_curve_features(file_od,
         max_r2 = 0
         ntrial = 0
         max_trial = 50
-        while max_r2 < 0.90 and ntrial < max_trial:
+        while max_r2 < min_r2 and ntrial < max_trial:
             best_fits = []
             r2 = []
             for model in fitting_models:
