@@ -1,0 +1,28 @@
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Apr 12 20:35:22 2020
+
+Academic license - for non-commercial use only
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpl0l_tbe6.lp
+Reading time = 0.02 seconds
+: 2096 rows, 5676 columns, 22516 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp8111fctw.lp
+Reading time = 0.02 seconds
+: 2096 rows, 5676 columns, 22516 nonzeros
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Apr 13 15:51:41 2020
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Fri Apr 17 09:19:50 2020
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon May  4 20:42:52 2020
+
+Academic license - for non-commercial use only
